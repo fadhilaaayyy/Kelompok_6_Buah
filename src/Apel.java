@@ -5,7 +5,7 @@
 
 /**
  *
- * @author FADHILA
+ * @author NGUWAWOR
  */
 public class Apel {
     String nama, warna, bentuk, rasa, ukuran;
