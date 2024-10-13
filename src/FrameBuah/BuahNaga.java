@@ -6,12 +6,12 @@ package FrameBuah;
 
 /**
  *
- * @author famel
+ * @author rina
  */
 public class BuahNaga extends javax.swing.JFrame {
 
     /**
-     * Creates new form semangka
+     * Creates new form BuahNaga
      */
     public BuahNaga() {
         initComponents();
